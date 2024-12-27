@@ -1,0 +1,1 @@
+# Starpattern-in-for-loop
